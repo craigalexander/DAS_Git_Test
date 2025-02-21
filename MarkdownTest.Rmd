@@ -2,7 +2,7 @@
 title: "DAS Test"
 author: "Craig Alexander"
 date: "2025-02-21"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
